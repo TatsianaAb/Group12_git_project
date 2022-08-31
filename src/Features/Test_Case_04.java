@@ -5,5 +5,10 @@ public class Test_Case_04 {
 
         String a = "Created  Test Case 4";
         System.out.println(a);
+
+        System.out.println(a.length());
+
     }
+
+
 }
